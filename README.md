@@ -2,11 +2,11 @@
 This repo contains several data analysis projects I've worked on
 
 ## Project 1:
-# EDA Project: 12 Months of Sales Data Analysis 📊💼
+EDA Project: 12 Months of Sales Data Analysis 📊💼
 
 In this data analysis project, I took on the challenge of exploring 12 months' worth of sales data for an electronics store. The dataset included a vast array of purchase information, including product types, costs, purchase addresses, and more. 
 
-## Key Highlights:
+### Key Highlights:
 
 ### 1. Data Preparation:
 - Merged data from 12 separate CSV files into a single dataset for analysis.
