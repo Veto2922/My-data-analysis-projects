@@ -1,7 +1,7 @@
 # My-data-analysis-projects
 This repo contains several data analysis projects I've worked on
 
-## Project 1:
+# Project 1:
 EDA Project: 12 Months of Sales Data Analysis 📊💼
 
 In this data analysis project, I took on the challenge of exploring 12 months' worth of sales data for an electronics store. The dataset included a vast array of purchase information, including product types, costs, purchase addresses, and more. 
@@ -26,7 +26,7 @@ In this data analysis project, I took on the challenge of exploring 12 months' w
 - Discovered which products were most frequently sold together, providing cross-selling opportunities.
 - Explored the product that sold the most and offered insights into why it achieved high sales volume.
 
-## Project 2:
+# Project 2:
 📊 **Salary in San Francisco EDA Project** 🌉
 
 In this project, I conducted an Exploratory Data Analysis (EDA) on salary data from San Francisco. This EDA aimed to uncover insights, trends, and interesting observations within the dataset.
@@ -49,6 +49,6 @@ This project showcases the power of data analysis in gaining valuable insights f
 
 Feel free to explore the code and visualizations to gain a deeper understanding of the dataset and its insights.
 
-## Project 3:
+# Project 3:
 In this project, I worked with a comprehensive dataset that provided valuable insights into the dynamics of startup growth, covering key aspects such as location, marketing spending, and revenue. and I made a Dashboard and Report To ensure that the project's insights were easily digestible
 ![image](https://github.com/Veto2922/My-data-analysis-projects/assets/114834171/04cc1bbb-cd82-4be6-b6a3-b2a7bf50cefd)
